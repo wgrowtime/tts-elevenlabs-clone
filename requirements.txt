@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+websockets
+numpy
+torch
+TTS
+ffmpeg-python
+huggingface_hub
+soundfile
+pydub
+python-multipart
+librosa
+scipy
